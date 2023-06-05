@@ -9,4 +9,4 @@ With a better understanding of the data, we started the deduping process. We nee
 
 For our analysis, we wanted to focus on the types of crime, the location of the crime, and the gender of the offender. For type of crime, we counted the number for each type of crime under Signal Description, and made a DataFrame from it using the groupby function. Then we filtered to a list of the top ten crimes. We made a bar graph with the top ten crimes and then created a png file to go in another folder on a computer. 
 
-Resources used for this project include, code from previous learning modules, Office hours, Tutor assistance, Stack Overflow, Pandas documentation, Matplotlib documentation, Seaborn documentation, and youtube![image](https://github.com/todd-petruska/Group_Project_1/assets/128247739/dca13533-865e-41b0-a955-daa259101e66)
+Resources used for this project include, code from previous learning modules, Office hours, Tutor assistance, Stack Overflow, Pandas documentation, Matplotlib documentation, Seaborn documentation, and youtube.
